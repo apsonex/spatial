@@ -1,10 +1,10 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Types;
+namespace Apsonex\Spatial\Types;
 
 use GeoJson\GeoJson;
 use GeoJson\Geometry\Point as GeoJsonPoint;
-use Apsonex\MlsParser\Spatial\Exceptions\InvalidGeoJsonException;
+use Apsonex\Spatial\Exceptions\InvalidGeoJsonException;
 
 class Point extends Geometry
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Types;
+namespace Apsonex\Spatial\Types;
 
-use Apsonex\MlsParser\Spatial\Exceptions\InvalidGeoJsonException;
+use Apsonex\Spatial\Exceptions\InvalidGeoJsonException;
 use GeoJson\GeoJson;
 use GeoJson\Geometry\LineString as GeoJsonLineString;
 

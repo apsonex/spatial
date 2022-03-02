@@ -1,11 +1,11 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Types;
+namespace Apsonex\Spatial\Types;
 
 
 use GeoJson\GeoJson;
 use GeoJson\Geometry\MultiPoint as GeoJsonMultiPoint;
-use Apsonex\MlsParser\Spatial\Exceptions\InvalidGeoJsonException;
+use Apsonex\Spatial\Exceptions\InvalidGeoJsonException;
 
 class MultiPoint extends PointCollection
 {

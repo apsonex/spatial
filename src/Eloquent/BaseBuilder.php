@@ -1,6 +1,6 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Eloquent;
+namespace Apsonex\Spatial\Eloquent;
 
 use Illuminate\Database\Query\Builder as QueryBuilder;
 

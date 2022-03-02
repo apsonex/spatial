@@ -1,12 +1,12 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Eloquent;
+namespace Apsonex\Spatial\Eloquent;
 
-use Apsonex\MlsParser\Spatial\Exceptions\SpatialFieldsNotDefinedException;
-use Apsonex\MlsParser\Spatial\Exceptions\UnknownSpatialFunctionException;
-use Apsonex\MlsParser\Spatial\Exceptions\UnknownSpatialRelationFunction;
-use Apsonex\MlsParser\Spatial\Types\Geometry;
-use Apsonex\MlsParser\Spatial\Types\GeometryInterface;
+use Apsonex\Spatial\Exceptions\SpatialFieldsNotDefinedException;
+use Apsonex\Spatial\Exceptions\UnknownSpatialFunctionException;
+use Apsonex\Spatial\Exceptions\UnknownSpatialRelationFunction;
+use Apsonex\Spatial\Types\Geometry;
+use Apsonex\Spatial\Types\GeometryInterface;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
 /**

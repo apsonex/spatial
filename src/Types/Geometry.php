@@ -1,8 +1,8 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Types;
+namespace Apsonex\Spatial\Types;
 
-use Apsonex\MlsParser\Spatial\Exceptions\UnknownWKTTypeException;
+use Apsonex\Spatial\Exceptions\UnknownWKTTypeException;
 use GeoIO\WKB\Parser\Parser;
 use GeoJson\GeoJson;
 use Illuminate\Contracts\Support\Jsonable;

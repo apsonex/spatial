@@ -1,8 +1,8 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Eloquent;
+namespace Apsonex\Spatial\Eloquent;
 
-use Apsonex\MlsParser\Spatial\Types\GeometryInterface;
+use Apsonex\Spatial\Types\GeometryInterface;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
 class Builder extends EloquentBuilder

@@ -1,6 +1,6 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Types;
+namespace Apsonex\Spatial\Types;
 
 use ArrayAccess;
 use ArrayIterator;
@@ -10,7 +10,7 @@ use GeoJson\GeoJson;
 use Illuminate\Contracts\Support\Arrayable;
 use InvalidArgumentException;
 use IteratorAggregate;
-use Apsonex\MlsParser\Spatial\Exceptions\InvalidGeoJsonException;
+use Apsonex\Spatial\Exceptions\InvalidGeoJsonException;
 
 class GeometryCollection extends Geometry implements IteratorAggregate, ArrayAccess, Arrayable, Countable
 {

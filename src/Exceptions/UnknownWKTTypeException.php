@@ -1,6 +1,6 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Exceptions;
+namespace Apsonex\Spatial\Exceptions;
 
 class UnknownWKTTypeException extends \RuntimeException
 {

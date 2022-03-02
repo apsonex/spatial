@@ -1,10 +1,10 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Types;
+namespace Apsonex\Spatial\Types;
 
 use GeoJson\GeoJson;
 use GeoJson\Geometry\Polygon as GeoJsonPolygon;
-use Apsonex\MlsParser\Spatial\Exceptions\InvalidGeoJsonException;
+use Apsonex\Spatial\Exceptions\InvalidGeoJsonException;
 
 class Polygon extends MultiLineString
 {

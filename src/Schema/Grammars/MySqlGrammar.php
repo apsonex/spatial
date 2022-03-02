@@ -1,8 +1,8 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Schema\Grammars;
+namespace Apsonex\Spatial\Schema\Grammars;
 
-use Apsonex\MlsParser\Spatial\Schema\Blueprint;
+use Apsonex\Spatial\Schema\Blueprint;
 use Illuminate\Database\Schema\Grammars\MySqlGrammar as IlluminateMySqlGrammar;
 use Illuminate\Support\Fluent;
 

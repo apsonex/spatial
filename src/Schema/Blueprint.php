@@ -1,6 +1,6 @@
 <?php
 
-namespace Apsonex\Spacial\Spatial\Schema;
+namespace Apsonex\Spatial\Schema;
 
 use Illuminate\Database\Schema\Blueprint as IlluminateBlueprint;
 
