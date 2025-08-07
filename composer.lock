@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e41c9e596174b78a1fa68ebdeee1f396",
+    "content-hash": "f79bd9ff0da8e72d6629e9591d99739f",
     "packages": [
         {
             "name": "geo-io/interface",
