@@ -6,6 +6,7 @@
       "email": "apsonexinc@gmail.com"
     }
   ],
+  "homepage": "https://github.com/apsonex/spatial",
   "require": {
     "php": "^8.2",
     "guzzlehttp/guzzle": "^7.8.2",
