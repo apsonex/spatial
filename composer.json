@@ -8,9 +8,9 @@
   ],
   "require": {
     "php": "^8.2",
-    "guzzlehttp/guzzle": "^7.4",
-    "geo-io/wkb-parser": "^1.0",
-    "jmikola/geojson": "^1.0"
+    "guzzlehttp/guzzle": "^7.8.2",
+    "geo-io/wkb-parser": "^1.0.2",
+    "jmikola/geojson": "^1.2.0"
   },
   "require-dev": {
     "laravel/framework": "^10.0|^11.0",
