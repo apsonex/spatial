@@ -3,7 +3,8 @@
   "authors": [
     {
       "name": "Apsonex Inc.",
-      "email": "apsonexinc@gmail.com"
+      "email": "apsonexinc@gmail.com",
+      "role": "Developer"
     }
   ],
   "homepage": "https://github.com/apsonex/spatial",
